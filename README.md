@@ -1,2 +1,2 @@
 # natan.com
-Social media is for you. No hidden algorithm.
+natan is a social media site, well, everything is for you. share yourself. you can discover users and other stuff. you can do whatever you want!
